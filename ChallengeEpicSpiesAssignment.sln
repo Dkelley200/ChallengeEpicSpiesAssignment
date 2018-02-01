@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeEpicSpiesAssignment", "ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment.csproj", "{68B52896-F1FE-490E-B006-B49A9FB63792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B52896-F1FE-490E-B006-B49A9FB63792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B52896-F1FE-490E-B006-B49A9FB63792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B52896-F1FE-490E-B006-B49A9FB63792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B52896-F1FE-490E-B006-B49A9FB63792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7234E05-C2EA-4653-A4E2-DFDAEA16BCB7}
+	EndGlobalSection
+EndGlobal
